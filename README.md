@@ -1,0 +1,2 @@
+# factoriel
+my frist code
